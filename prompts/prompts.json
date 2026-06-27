@@ -1,0 +1,27 @@
+[
+  {
+    "scene": 1,
+    "filename": "scene_01",
+    "prompt": "Minimal black line character, thin black outline only, white background, flat SVG illustration, holding a baby photograph with a confused expression, large question mark beside the head, educational explainer style, vertical 9:16."
+  },
+  {
+    "scene": 2,
+    "filename": "scene_02",
+    "prompt": "Minimal black line character, examining a baby photograph closely with a curious expression, clean white background, flat vector illustration."
+  },
+  {
+    "scene": 3,
+    "filename": "scene_03",
+    "prompt": "Minimal black line character scratching head beside a simple clock icon, confused expression, minimalist vector illustration."
+  },
+  {
+    "scene": 4,
+    "filename": "scene_04",
+    "prompt": "Minimal black line character sitting and thinking with a thought bubble overhead, white background, educational vector style."
+  },
+  {
+    "scene": 5,
+    "filename": "scene_05",
+    "prompt": "Minimal black line character closing eyes while concentrating, hands together, clean white background."
+  }
+]
